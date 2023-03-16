@@ -38,3 +38,7 @@ tasks.named('test') {
 springBoot {
 	mainClass = 'com.example.mucal'
 }
+
+jar {
+	enabled = false
+}
