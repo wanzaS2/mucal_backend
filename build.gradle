@@ -33,10 +33,10 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
-
-springBoot {
-	mainClass = 'com.example.mucal'
-}
+//
+//springBoot {
+//	mainClass = 'com.example.mucal'
+//}
 
 jar {
 	enabled = false
