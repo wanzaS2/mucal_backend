@@ -9,6 +9,7 @@ build/
 .apt_generated
 .classpath
 .factorypath
+.properties
 .project
 .settings
 .springBeans
